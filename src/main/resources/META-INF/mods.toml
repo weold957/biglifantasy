@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="biglifantasy"
+version="1.0.0"
+displayName="大力的幻想"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="http://www.mcstarsky.top"
+authors="Coldsmile, MCreator"
+
+[[dependencies.biglifantasy]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

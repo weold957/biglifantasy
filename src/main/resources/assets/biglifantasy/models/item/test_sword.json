@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "biglifantasy:item/big_li_sword"
+  }
+}

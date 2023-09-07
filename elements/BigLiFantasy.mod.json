@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "BigLi's Fantasy",
+    "icon": {
+      "value": "Items.RECORD_FAR"
+    },
+    "showSearch": true
+  }
+}

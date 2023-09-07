@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "biglifantasy:block/test",
+    "up": "biglifantasy:block/test",
+    "north": "biglifantasy:block/test",
+    "east": "biglifantasy:block/test",
+    "south": "biglifantasy:block/test",
+    "west": "biglifantasy:block/test",
+    "particle": "biglifantasy:block/test"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,136 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bless",
+      "type": "enchantment",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bless",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/biglifantasy/enchantment/BlessEnchantment.java"
+        ]
+      }
+    },
+    {
+      "name": "BigLiFantasy",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_li_fantasy",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/biglifantasy/models/item/test.json",
+          "src/main/java/net/mcreator/biglifantasy/block/TestBlock.java",
+          "src/main/resources/assets/biglifantasy/models/block/test.json",
+          "src/main/resources/assets/biglifantasy/blockstates/test.json"
+        ]
+      }
+    },
+    {
+      "name": "BlessBook",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bless_book",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/biglifantasy/recipes/bless_book.json"
+        ]
+      }
+    },
+    {
+      "name": "TestSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/biglifantasy/item/TestSwordItem.java",
+          "src/main/resources/assets/biglifantasy/models/item/test_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "WitherDrop",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wither_drop",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/loot_tables/entities/wither.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderDragonDrop",
+      "type": "loottable",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_dragon_drop",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/loot_tables/entities/ender_dragon.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.biglifantasy.test": "Test",
+      "enchantment.biglifantasy.bless": "Bless",
+      "item.biglifantasy.test_sword": "Test Sword",
+      "item_group.biglifantasy.big_li_fantasy": "BigLi\u0027s Fantasy"
+    },
+    "zh_cn": {
+      "block.biglifantasy.test": "Test",
+      "enchantment.biglifantasy.bless": "护佑",
+      "item.biglifantasy.test_sword": "§4§l大§l§5力§l§6王§l§7剑 §l§0§m(测试刀)",
+      "item_group.biglifantasy.big_li_fantasy": "大力的幻想"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "biglifantasy",
+    "modName": "大力的幻想",
+    "version": "1.0.0",
+    "author": "Coldsmile, MCreator",
+    "websiteURL": "http://www.mcstarsky.top",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.biglifantasy",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}
